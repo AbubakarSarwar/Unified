@@ -1,6 +1,6 @@
 # Unified
 A web application created for students to help them in exchanging books and notes. Also, to allow them to find people for group study.
-
+![Screenshot](logo.png)
 The folder contains several files related to HTML, CSS and JavaScript.
 The backend is handled using firebase.
 The project contains three main features:
