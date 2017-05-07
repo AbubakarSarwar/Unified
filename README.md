@@ -12,3 +12,6 @@ It is a feature that helps you in finding a group of people for group study. It 
 It is a feature that provides a platform for sharing class notes for students who have missed the 	class.
 
 Note: Extract Images.zip and Revolution.zip before testing the project.
+Below is a glimpse of the web:
+![Screenshot](1.png)
+![Screenshot](2.png)
